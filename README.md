@@ -8,6 +8,11 @@
 
 The app is implemented in [calc.py](calc.py).
 
+## Screenshots
+
+![Calc screenshot 1](https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture.JPG)
+![Calc screenshot 2](https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture2.JPG)
+
 ## Features
 
 - Clean Tkinter GUI sized for desktop use
