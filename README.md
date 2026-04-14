@@ -10,8 +10,19 @@ The app is implemented in [calc.py](calc.py).
 
 ## Screenshots
 
-![Calc screenshot 1](https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture.JPG)
-![Calc screenshot 2](https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture2.JPG)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture.JPG">
+    <img src="https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture.JPG" alt="Calc in hexadecimal mode" width="320">
+  </a>
+  <a href="https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture2.JPG">
+    <img src="https://raw.githubusercontent.com/jsammarco/Calc/refs/heads/main/Screenshots/Capture2.JPG" alt="Calc in binary mode" width="320">
+  </a>
+</p>
+
+<p align="center">
+  <em>Left: hexadecimal mode</em><br>
+  <em>Right: binary mode</em>
+</p>
 
 ## Features
 
